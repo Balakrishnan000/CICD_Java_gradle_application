@@ -26,7 +26,7 @@ test {
 }
 
 
-sonarqube {
+sonar {
     properties {
         property 'sonar.host.url', 'http://34.125.141.209:9000/'
 		property "sonar.projectKey", "sampleWeb"
